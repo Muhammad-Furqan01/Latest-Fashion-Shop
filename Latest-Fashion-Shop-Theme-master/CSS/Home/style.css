@@ -154,3 +154,39 @@
 .first{
     margin: auto 0;
 }
+.main{
+    border: 2px solid green;
+    width: 90vw;
+    height: 100vh;
+    margin: 12px auto;
+
+}
+.footer{
+    border: 2px solid yellow;
+    background-color: green;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer_list{
+    list-style: none;
+}
+.item > a{
+    text-decoration: none;
+    color: black;
+}
+.item > a:hover{
+    color: yellow;
+}
+.second{
+    margin: auto 0;
+}
+.second > a{
+    text-decoration: none;
+    color: black;
+}
+.second > a:hover{
+    color: yellow;
+}
+.first{
+    margin: auto 0;
+}
